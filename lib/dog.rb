@@ -24,6 +24,4 @@ def self.print_all
      @@all << self
  end
 end
-puppy = Dog.new('puppy')
-binding.pry
-Dog.all
+
